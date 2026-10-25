@@ -3,9 +3,9 @@
 class BacklogKomensky < Formula
   desc "Markdown-native task manager and Kanban board (Komensky Interactive fork)"
   homepage "https://github.com/KomenskyInteractive/Backlog.md"
-  url "https://github.com/KomenskyInteractive/Backlog.md/releases/download/komensky-v1.55.3-2/backlog-darwin-arm64.tar.gz"
-  version "1.55.3-2"
-  sha256 "c7db1ac6662d1f1f94c3fe07fad06bbef1216191f4b491dd1f20509ffb814a59"
+  url "https://github.com/KomenskyInteractive/Backlog.md/releases/download/komensky-v1.55.3-3/backlog-darwin-arm64.tar.gz"
+  version "1.55.3-3"
+  sha256 "183136d402f10659c35c5411e1e2ec022fed21b8e46110f665487745854c9ae2"
   license "MIT"
 
   depends_on arch: :arm64
