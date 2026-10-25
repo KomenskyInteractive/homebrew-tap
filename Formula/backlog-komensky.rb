@@ -1,11 +1,11 @@
-# Backlog.md with Komensky Interactive's changes (priority colors, short task IDs).
+# Backlog.md with Komensky Interactive's changes (priority colors, compact task IDs).
 # Source and release notes: https://github.com/KomenskyInteractive/Backlog.md/blob/komensky/KOMENSKY.md
 class BacklogKomensky < Formula
   desc "Markdown-native task manager and Kanban board (Komensky Interactive fork)"
   homepage "https://github.com/KomenskyInteractive/Backlog.md"
-  url "https://github.com/KomenskyInteractive/Backlog.md/releases/download/komensky-v1.55.3-1/backlog-darwin-arm64.tar.gz"
-  version "1.55.3-1"
-  sha256 "9f2a427c191359d21a25c3032429ddf0ac600189a29052c4af709ce14a5dbe11"
+  url "https://github.com/KomenskyInteractive/Backlog.md/releases/download/komensky-v1.55.3-2/backlog-darwin-arm64.tar.gz"
+  version "1.55.3-2"
+  sha256 "c7db1ac6662d1f1f94c3fe07fad06bbef1216191f4b491dd1f20509ffb814a59"
   license "MIT"
 
   depends_on arch: :arm64
